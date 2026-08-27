@@ -4,7 +4,7 @@ Analysis of 7,032 telecom customers to identify the factors associated with chur
 
 ## Dashboard
 
-![Dashboard](visualizations/customer-retention-and-churn-dashboard.png)
+![Dashboard](visualizations/customer-retention-and-churn-screenshot.png)
 
 ## Key Findings
 
